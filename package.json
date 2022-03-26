@@ -16,7 +16,7 @@
   "author": "Punith K",
   "license": "MIT",
   "dependencies": {
-    "electron": "^9.4.0"
+    "electron": "^13.6.6"
   },
   "devDependencies": {
     "electron-packager": "^12.2.0"
